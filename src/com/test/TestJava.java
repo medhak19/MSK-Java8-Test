@@ -5,6 +5,7 @@ public class TestJava{
 	{
 		System.out.println("Hello from java container");
 		System.out.println("Test Autocommit");
+		System.out.println("Test Autocommit2 11Nov");
 		
 	}
 
